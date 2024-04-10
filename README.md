@@ -25,6 +25,5 @@ https://alexwohlbruck.github.io/cat-facts<br />
 ## Проект в Jira<br />
 Небольшая работа с Jira тикетами, создание баг репортов, изучение Scrum, Kanban.<br />
 Запросить доступ можно перейдя по ссылке<br />
-Ссылка на проект:<br />
-[https://candlemaker.atlassian.net/jira/software/projects/SP/boards/3<br />](https://ke-project.atlassian.net/jira/software/projects/KE/boards/2)<br />
+Ссылка на проект: [https://candlemaker.atlassian.net/jira/software/projects/SP/boards/3<br />](https://ke-project.atlassian.net/jira/software/projects/KE/boards/2)<br />
 
