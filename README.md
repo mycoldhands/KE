@@ -12,11 +12,11 @@ Qase - платформа для управления тестовыми про�
 </details>
 
 ## Рабочее пространство в Postman
-Имею небольшой опыт использования Postman и написания тестов для запросов
-Используемые API:
-https://wizard-world-api.herokuapp.com/swagger/index.html
-https://alexwohlbruck.github.io/cat-facts
-Ссылка на проект: https://www.postman.com/altimetry-astronomer-38517893/workspace/my-workspace/overview
+Имею небольшой опыт использования Postman и написания тестов для запросов<br />
+Используемые API:<br />
+https://wizard-world-api.herokuapp.com/swagger/index.html<br />
+https://alexwohlbruck.github.io/cat-facts<br />
+Ссылка на проект: https://www.postman.com/altimetry-astronomer-38517893/workspace/my-workspace/overview<br />
 
-## Проект в Jira
-https://candlemaker.atlassian.net/jira/software/projects/SP/boards/3
+## Проект в Jira<br />
+https://candlemaker.atlassian.net/jira/software/projects/SP/boards/3<br />
