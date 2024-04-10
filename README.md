@@ -17,3 +17,6 @@ Qase - платформа для управления тестовыми про�
 https://wizard-world-api.herokuapp.com/swagger/index.html
 https://alexwohlbruck.github.io/cat-facts
 Ссылка на проект: https://www.postman.com/altimetry-astronomer-38517893/workspace/my-workspace/overview
+
+## Проект в Jira
+https://candlemaker.atlassian.net/jira/software/projects/SP/boards/3
