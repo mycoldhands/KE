@@ -8,5 +8,5 @@ Qase - платформа для управления тестовыми про�
 Доступ к проекту можно запросить у меня по e-mail
 Ссылка на проект: https://app.qase.io/project/KE
 <details>
-<summary>![fc23645dd1e1f2a090f2f715b57e97d2](https://github.com/mycoldhands/KE/assets/161601627/a9cf77e4-f202-4a56-bf90-253433f81fd3)</summary>
+<summary>(https://github.com/mycoldhands/KE/assets/161601627/a9cf77e4-f202-4a56-bf90-253433f81fd3)</summary>
 </details>
