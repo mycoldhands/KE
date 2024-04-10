@@ -10,6 +10,12 @@ Qase - платформа для управления тестовыми про�
 <details>
 ![fc23645dd1e1f2a090f2f715b57e97d2](https://github.com/mycoldhands/KE/assets/161601627/b9092039-a2a9-42d0-83e8-15722213b19a)
 </details>
+<details>
+	<summary>KE personal project</summary>
+</details>
+
+
+
 
 ## Рабочее пространство в Postman
 Имею небольшой опыт использования Postman и написания тестов для запросов<br />
@@ -19,4 +25,6 @@ https://alexwohlbruck.github.io/cat-facts<br />
 Ссылка на проект: https://www.postman.com/altimetry-astronomer-38517893/workspace/my-workspace/overview<br />
 
 ## Проект в Jira<br />
-https://candlemaker.atlassian.net/jira/software/projects/SP/boards/3<br />
+Небольшая работа с Jira тикетами, создание баг репортов, изучение Scrum, Kanban.<br />
+[https://candlemaker.atlassian.net/jira/software/projects/SP/boards/3<br />](https://ke-project.atlassian.net/jira/software/projects/KE/boards/2)<br />
+
