@@ -23,7 +23,7 @@ https://alexwohlbruck.github.io/cat-facts<br />
 [Ссылка на проект](https://www.postman.com/altimetry-astronomer-38517893/workspace/my-test-project/request/33314807-1dd8e2db-3da8-4289-8018-a5709fef37ff)<br />
 <details>
 	<summary>Рабочее пространство в Postman</summary>
-	<img src="https://github.com/mycoldhands/KE/assets/161601627/9ffcec09-b3ed-442b-9b5c-9b72d15a6c70" />
+	<img src="https://github.com/mycoldhands/KE/assets/161601627/4fa3267b-6c24-4b7d-880a-9870f64fbf8c" />
 </details>
 
 
@@ -34,5 +34,5 @@ https://alexwohlbruck.github.io/cat-facts<br />
 [Ссылка на проект](https://ke-project.atlassian.net/jira/software/projects/KE/boards/2)<br />
 <details>
 	<summary>Проект в Jira</summary>
-	<img src="https://github.com/mycoldhands/KE/assets/161601627/9ffcec09-b3ed-442b-9b5c-9b72d15a6c70" />
+	<img src="https://github.com/mycoldhands/KE/assets/161601627/1ecb24c5-7e21-4dd1-a7b2-52594fc4607f" />
 </details>
