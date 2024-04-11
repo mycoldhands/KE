@@ -34,5 +34,5 @@ https://alexwohlbruck.github.io/cat-facts<br />
 [Ссылка на проект](https://ke-project.atlassian.net/jira/software/projects/KE/boards/2)<br />
 <details>
 	<summary>Проект в Jira</summary>
-	<img src="https://github.com/mycoldhands/KE/assets/161601627/1ecb24c5-7e21-4dd1-a7b2-52594fc4607f" />
+	<img src="https://github.com/mycoldhands/KE/assets/161601627/4d6a05f2-67c1-4f6a-b772-03932824e83c" />
 </details>
